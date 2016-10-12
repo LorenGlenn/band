@@ -1,7 +1,9 @@
 .sidebar{
   background-color: #ffe0b3;
   min-width: 300px;
-
+  border: 2px solid blue;
+  margin: 5px;
+  padding: 10px;
 }
 
 .sidebar h1{
@@ -26,7 +28,7 @@ ul.menu {
   text-align: center;
 }
 .mainimage {
-
+  padding: 5px;
 }
 
 .container{
