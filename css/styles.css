@@ -1,0 +1,44 @@
+.sidebar{
+  background-color: #ffe0b3;
+  min-width: 300px;
+
+}
+
+.sidebar h1{
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding: 30px;
+  font-variant: small-caps;
+  color: #003311;
+
+}
+
+ul.menu {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+.menu li{
+  font-size: 20pt;
+  padding-bottom: 10px;
+  font-variant: small-caps;
+  text-align: center;
+}
+.mainimage {
+
+}
+
+.container{
+  display: flex;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: red;
+}
